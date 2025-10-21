@@ -26,4 +26,3 @@ GET /ask?query=List the KDD product names we scraped.
 
 ## Notes
 - If the KDD structure changes, adjust CSS selectors in scraper.
-- For bonus, replace JSON with PostgreSQL/Milvus/FAISS persisted index.
