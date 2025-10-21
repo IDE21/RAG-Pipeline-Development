@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "category_url": "https://www.kddc.com/product/sample-iot/",
+      "name": "IoT Gateway X1",
+      "url": "https://www.kddc.com/product/iot-gateway-x1",
+      "description": "Edge gateway for industrial IoT."
+    },
+    {
+      "category_url": "https://www.kddc.com/product/sample-networking/",
+      "name": "Smart Switch S12",
+      "url": "https://www.kddc.com/product/smart-switch-s12",
+      "description": "Managed Layer-2 switch for SMBs."
+    }
+  ],
+  "careers": [
+    {
+      "title": "Data Engineer",
+      "url": "https://career.kddc.com/jobs/data-engineer",
+      "location": "Kuwait",
+      "department": "IT",
+      "summary": "Build data pipelines and analytics."
+    },
+    {
+      "title": "Sales Executive",
+      "url": "https://career.kddc.com/jobs/sales-executive",
+      "location": "Kuwait",
+      "department": "Sales",
+      "summary": "Develop client relationships and hit targets."
+    }
+  ],
+  "meta": {
+    "source_products": "https://www.kddc.com/product/",
+    "source_careers": "https://career.kddc.com/"
+  }
+}

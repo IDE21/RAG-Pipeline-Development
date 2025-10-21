@@ -1,0 +1,9 @@
+transformers
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+bs4
+requests
+pydantic==2.*
+python-multipart
